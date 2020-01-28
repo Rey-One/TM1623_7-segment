@@ -1,5 +1,5 @@
-#ifndef __My_TM1623_H__
-#define __My_TM1623_H__
+#ifndef __TM1623_H__
+#define __TM1623_H__
 
 #include "Arduino.h"
 
